@@ -1,6 +1,6 @@
 # encoding: UTF-8
 
-require 'salesforce_bulk_query'
+# require 'salesforce_bulk_query'
 
 require_relative 'base_middleware'
 

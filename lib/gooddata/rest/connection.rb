@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-require 'terminal-table'
+#require 'terminal-table'
 
 require_relative '../version'
 require_relative '../exceptions/exceptions'
